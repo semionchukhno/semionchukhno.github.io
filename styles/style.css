@@ -175,4 +175,8 @@ p {
 .footer-contact-information {
   display: flex;
 }
+.contact-information-cover-image {
+  width: 100%;
+  height: auto;
+}
 /* contact-information-css end */
